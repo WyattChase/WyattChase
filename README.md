@@ -17,4 +17,5 @@ Here are some ideas to get you started: ->
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattChase&show_icons=true&theme=tokyonight)](https://github.com/WyattChase/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattChase&show_icons=true&theme=tokyonight)](https://github.com/WyattChase/github-readme-stats)/ <img align="right" alt="Coding" width="400" src="[add your link 
+  here](https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif)">
