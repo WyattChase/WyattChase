@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **WyattChase/WyattChase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: My Sax's name is Kara 
--->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattChase&show_icons=true&theme=tokyonight)](https://github.com/WyattChase/github-readme-stats)
