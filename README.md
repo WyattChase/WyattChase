@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My Sax's name is Kara 
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattChase), ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)](https://github.com/WyattChase/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattChase), ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattChase&show_icons=true)](https://github.com/WyattChase/github-readme-stats)
