@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/110052742/236056232-498b0666-2f0d-4ce9-aa2d-c6072f6dcd27.png)
 
 
 **WyattChase/WyattChase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
