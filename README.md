@@ -18,3 +18,9 @@ Here are some ideas to get you started: ->
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattChase&show_icons=true&theme=tokyonight)](https://github.com/WyattChase/github-readme-stats)/ <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jean-st-cloud/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/saxo_beat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
