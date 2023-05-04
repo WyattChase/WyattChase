@@ -30,6 +30,6 @@ Here are some ideas to get you started: ->
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WyattChase&theme=tokyonight-duo&border_radius=6&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats) /![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12166340593)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WyattChase&theme=tokyonight-duo&border_radius=6&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats) <p align="left"> ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12166340593) </p>
 
 
