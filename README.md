@@ -15,10 +15,10 @@ Here are some ideas to get you started: ->
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: My Sax's name is Kara 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<div> 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattChase&show_icons=true&theme=tokyonight)](https://github.com/WyattChase/github-readme-stats) <p align="right"> <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif"></p>
-</div>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img align="left"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattChase&show_icons=true&theme=tokyonight)](https://github.com/WyattChase/github-readme-stats). </img> <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jean-st-cloud/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
@@ -30,7 +30,7 @@ Here are some ideas to get you started: ->
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-&nbsp;&nbsp;&nbsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WyattChase&theme=tokyonight-duo&border_radius=6&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12166340593&count=3)
+&nbsp;&nbsp;&nbsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WyattChase&theme=tokyonight-duo&border_radius=6&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12166340593&count=3)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
