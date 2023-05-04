@@ -8,10 +8,10 @@ Here are some ideas to get you started: ->
 
 - 🔭 I’m currently working on GigHive Project
 - 🌱 I’m currently learning Python,BackEnd
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on any gaming projects or websites!!!
 - 🤔 I’m looking for help with anything that will help challenge and help me grow
-- 💬 Ask me about ...
-- 📫 How to reach me: 
+- 💬 Ask me about any codes or music!!
+- 📫 How to reach me: Best way to reach me is through my linkedin or insta
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: My Sax's name is Kara 
 
