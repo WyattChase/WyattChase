@@ -17,7 +17,7 @@ Here are some ideas to get you started: --->
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img align="left"> [![Anurag's GitHub stats](github-readme-stats-fawn-six-75.vercel.app/api?username=WyattChase&show_icons=true&theme=tokyonight)](https://github.com/WyattChase/github-readme-stats) </img> <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif">
+<img align="left"> [![Anurag's GitHub stats](http://github-readme-stats-fawn-six-75.vercel.app/api?username=WyattChase&show_icons=true&theme=tokyonight)](https://github.com/WyattChase/github-readme-stats) </img> <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
