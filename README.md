@@ -17,10 +17,10 @@ Here are some ideas to get you started: --->
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img align="left" alt="WyattChase's Git" src="https://github-readme-stats-fawn-six-75.vercel.app/api?username=WyattChase&show_icons=true&theme=tokyonight" /> 
+<img align="left" alt="WyattChase's Git" width="400" src="https://github-readme-stats-fawn-six-75.vercel.app/api?username=WyattChase&show_icons=true&theme=tokyonight" /> 
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif"/>
-
+<div></div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jean-st-cloud/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
